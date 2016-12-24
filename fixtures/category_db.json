@@ -1,0 +1,128 @@
+[
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 0,
+   "fields": {
+      "name": "Bank Payments & Transfers"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 1,
+   "fields": {
+      "name": "Business & Donations"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 2,
+   "fields": {
+      "name": "Cash Withdrawals"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 3,
+   "fields": {
+      "name": "Childcare & Education"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 4,
+   "fields": {
+      "name": "Clothing & Grooming"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 5,
+   "fields": {
+      "name": "Entertainment & Leisure"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 6,
+   "fields": {
+      "name": "Food & Drink"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 7,
+   "fields": {
+      "name": "Healthcare"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 8,
+   "fields": {
+      "name": "Holiday"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 9,
+   "fields": {
+      "name": "Home & Garden"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 10,
+   "fields": {
+      "name": "Household Bills & Utilities"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 11,
+   "fields": {
+      "name": "Income"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 12,
+   "fields": {
+      "name": "Loans & Credit Cards"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 13,
+   "fields": {
+      "name": "Motoring Expenses"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 14,
+   "fields": {
+      "name": "Public Transport"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 15,
+   "fields": {
+      "name": "Retail (Other)"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 16,
+   "fields": {
+      "name": "Savings & Financial"
+   }
+},
+ {
+   "model": "subscriptions_lib.Category",
+   "pk": 17,
+   "fields": {
+      "name": "Other"
+   }
+}
+]
