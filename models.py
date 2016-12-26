@@ -23,7 +23,7 @@ class Subscription(models.Model):
     company = models.ForeignKey(Company)
     description = models.TextField(null=True, blank=True)
     price = models.FloatField(null=True, blank=True)
-    subscription_url = models.CharField(max_length=200, null=True, blank=True)
+    url = models.CharField(max_length=200, null=True, blank=True)
     reference = models.CharField(max_length=100, unique=True)
 
     def __str__(self):
