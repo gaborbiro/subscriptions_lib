@@ -1,14 +1,38 @@
 [
-{
-    "model": "subscriptions_lib.subscription",
-    "pk": 7,
-    "fields": {
-        "name": "Hello Fresh",
-        "company": 28,
-        "description": "Make your life easier with the HelloFresh Food Box. Easy recipes and delicious ingredients sent to your door weekly, thanks to our fresh food delivery service.",
-        "price": 39.0,
-        "url": "https://www.hellofresh.co.uk/",
-        "reference": "HELLO FRESH"
-    }
+ {
+   "model": "subscriptions_lib.subscription",
+   "pk": 0,
+   "fields": {
+      "name": "One bottle of beer every week for 24 weeks",
+      "company": 1,
+      "description": "One beer and the story behind it, delivered for £3 a week.",
+      "price": 36,
+      "url": "",
+      "reference": ""
+   }
+},
+ {
+   "model": "subscriptions_lib.subscription",
+   "pk": 1,
+   "fields": {
+      "name": "Three Recipe Box meals for 2 people",
+      "company": 0,
+      "description": "Make your life easier with the HelloFresh Food Box. Easy recipes and delicious ingredients sent to your door weekly, thanks to our fresh food delivery service.",
+      "price": 42,
+      "url": "",
+      "reference": ""
+   }
+},
+ {
+   "model": "subscriptions_lib.subscription",
+   "pk": 2,
+   "fields": {
+      "name": "6 month coffee bag subscription",
+      "company": 2,
+      "description": "Look no further for the perfect! eightpointnine can solve all your present worries with a coffee gift for a friend or family member.",
+      "price": 48,
+      "url": "",
+      "reference": ""
+   }
 }
 ]

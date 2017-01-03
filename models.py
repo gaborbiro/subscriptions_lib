@@ -8,16 +8,9 @@ class Category(models.Model):
     def __str__(self):
         return self.name or self.reference
 
-class Subcategory(models.Model):
-    name = models.CharField(max_length=50)
-    category = models.ForeignKey(Category)
-
-    def __str__(self):
-        return self.name or self.reference
-
 class Company(models.Model):
     name = models.CharField(max_length=200, null=True, blank=True)
-    subcategory = models.ForeignKey(Subcategory)
+    category = models.ForeignKey(Category)
     url = models.URLField(max_length=200, null=True, blank=True)
 
     def __str__(self):
@@ -31,7 +24,7 @@ class Subscription(models.Model):
     price = models.FloatField(null=True, blank=True)
     url = models.CharField(max_length=200, null=True, blank=True)
     img = models.ImageField(upload_to = 'subscription_thumbnails/')
-    reference = models.CharField(max_length=100, unique=True)
+    reference = models.CharField(max_length=100, blank=True)
 
     def __str__(self):
         return self.name or self.reference

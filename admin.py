@@ -1,7 +1,7 @@
 from django.contrib import admin
-from .models import Subcategory, Category, Company, Subscription
+from .models import Category, Company, Subscription
 
 # Register your models here.
-myModels = [Category, Subcategory, Company, Subscription]
+myModels = [Category, Company, Subscription]
 
 admin.site.register(myModels)

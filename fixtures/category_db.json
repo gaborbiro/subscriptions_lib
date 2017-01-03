@@ -3,126 +3,98 @@
    "model": "subscriptions_lib.Category",
    "pk": 0,
    "fields": {
-      "name": "Bank Payments & Transfers"
+      "name": "Alcohol"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 1,
    "fields": {
-      "name": "Business & Donations"
+      "name": "Beauty"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 2,
    "fields": {
-      "name": "Cash Withdrawals"
+      "name": "Beverages"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 3,
    "fields": {
-      "name": "Childcare & Education"
+      "name": "Children"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 4,
    "fields": {
-      "name": "Clothing & Grooming"
+      "name": "Creative"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 5,
    "fields": {
-      "name": "Entertainment & Leisure"
+      "name": "Fashion"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 6,
    "fields": {
-      "name": "Food & Drink"
+      "name": "Food"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 7,
    "fields": {
-      "name": "Healthcare"
+      "name": "Geek"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 8,
    "fields": {
-      "name": "Holiday"
+      "name": "Jewellery"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 9,
    "fields": {
-      "name": "Home & Garden"
+      "name": "Lifestyle"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 10,
    "fields": {
-      "name": "Household Bills & Utilities"
+      "name": "Men"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 11,
    "fields": {
-      "name": "Income"
+      "name": "Pets"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 12,
    "fields": {
-      "name": "Loans & Credit Cards"
+      "name": "Sport"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 13,
    "fields": {
-      "name": "Motoring Expenses"
-   }
-},
- {
-   "model": "subscriptions_lib.Category",
-   "pk": 14,
-   "fields": {
-      "name": "Public Transport"
-   }
-},
- {
-   "model": "subscriptions_lib.Category",
-   "pk": 15,
-   "fields": {
-      "name": "Retail (Other)"
-   }
-},
- {
-   "model": "subscriptions_lib.Category",
-   "pk": 16,
-   "fields": {
-      "name": "Savings & Financial"
-   }
-},
- {
-   "model": "subscriptions_lib.Category",
-   "pk": 17,
-   "fields": {
-      "name": "Other"
+      "name": "Vegan"
    }
 }
 ]
