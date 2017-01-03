@@ -30,7 +30,7 @@ class Subscription(models.Model):
     description = models.TextField(null=True, blank=True)
     price = models.FloatField(null=True, blank=True)
     url = models.CharField(max_length=200, null=True, blank=True)
-    img = models.ImageField()
+    img = models.ImageField(upload_to = 'subscription_thumbnails/')
     reference = models.CharField(max_length=100, unique=True)
 
     def __str__(self):
