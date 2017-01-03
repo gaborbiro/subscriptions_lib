@@ -8,10 +8,16 @@ class Category(models.Model):
     def __str__(self):
         return self.name or self.reference
 
+class Subcategory(models.Model):
+    name = models.CharField(max_length=50)
+    category = models.ForeignKey(Category)
+
+    def __str__(self):
+        return self.name or self.reference
 
 class Company(models.Model):
     name = models.CharField(max_length=200, null=True, blank=True)
-    category = models.ForeignKey(Category)
+    subcategory = models.ForeignKey(Subcategory)
     url = models.URLField(max_length=200, null=True, blank=True)
 
     def __str__(self):

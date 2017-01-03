@@ -1,0 +1,10 @@
+[
+ {
+   "model": "subscriptions_lib.Subcategory",
+   "pk": 0,
+   "fields": {
+      "name": "DIY Cooking",
+      "category": 6
+   }
+}
+]
