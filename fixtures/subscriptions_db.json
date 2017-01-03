@@ -7,7 +7,7 @@
       "company": 1,
       "description": "One beer and the story behind it, delivered for £3 a week.",
       "price": 36,
-      "url": "",
+      "url": "subscription_thumbnails/beerbods.jpg",
       "reference": ""
    }
 },
@@ -19,7 +19,7 @@
       "company": 0,
       "description": "Make your life easier with the HelloFresh Food Box. Easy recipes and delicious ingredients sent to your door weekly, thanks to our fresh food delivery service.",
       "price": 42,
-      "url": "",
+      "url": "subscription_thumbnails/hellofresh.jpg",
       "reference": ""
    }
 },
@@ -31,7 +31,7 @@
       "company": 2,
       "description": "Look no further for the perfect! eightpointnine can solve all your present worries with a coffee gift for a friend or family member.",
       "price": 48,
-      "url": "",
+      "url": "subscription_thumbnails/eightpointnine.jpg",
       "reference": ""
    }
 }
