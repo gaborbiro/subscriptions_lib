@@ -3,11 +3,12 @@
    "model": "subscriptions_lib.subscription",
    "pk": 0,
    "fields": {
-      "name": "One bottle of beer every week for 24 weeks",
+      "name": "One bottle of beer every week for 12 weeks",
       "company": 1,
+      "category": 0,
       "description": "One beer and the story behind it, delivered for £3 a week.",
       "price": 36,
-      "url": "subscription_thumbnails/beerbods.jpg",
+      "img": "subscription_thumbnails/beerbods.jpg",
       "reference": ""
    }
 },
@@ -15,11 +16,12 @@
    "model": "subscriptions_lib.subscription",
    "pk": 1,
    "fields": {
-      "name": "Three Recipe Box meals for 2 people",
-      "company": 0,
-      "description": "Make your life easier with the HelloFresh Food Box. Easy recipes and delicious ingredients sent to your door weekly, thanks to our fresh food delivery service.",
-      "price": 42,
-      "url": "subscription_thumbnails/hellofresh.jpg",
+      "name": "One bottle of beer every week for 24 weeks",
+      "company": 1,
+      "category": 0,
+      "description": "One beer and the story behind it, delivered for £3 a week.",
+      "price": 70,
+      "img": "subscription_thumbnails/beerbods.jpg",
       "reference": ""
    }
 },
@@ -27,11 +29,90 @@
    "model": "subscriptions_lib.subscription",
    "pk": 2,
    "fields": {
+      "name": "One bottle of beer every week for 48 weeks",
+      "company": 1,
+      "category": 0,
+      "description": "One beer and the story behind it, delivered for £3 a week.",
+      "price": 135,
+      "img": "subscription_thumbnails/beerbods.jpg",
+      "reference": ""
+   }
+},
+ {
+   "model": "subscriptions_lib.subscription",
+   "pk": 3,
+   "fields": {
+      "name": "Three Recipe Box meals for 2 people",
+      "company": 0,
+      "category": 6,
+      "description": "Make your life easier with the HelloFresh Food Box. Easy recipes and delicious ingredients sent to your door weekly, thanks to our fresh food delivery service.",
+      "price": 42,
+      "img": "subscription_thumbnails/hellofresh.jpg",
+      "reference": ""
+   }
+},
+ {
+   "model": "subscriptions_lib.subscription",
+   "pk": 4,
+   "fields": {
+      "name": "Three Recipe Box meals for 4 people",
+      "company": 0,
+      "category": 6,
+      "description": "Make your life easier with the HelloFresh Food Box. Easy recipes and delicious ingredients sent to your door weekly, thanks to our fresh food delivery service.",
+      "price": 62,
+      "img": "subscription_thumbnails/hellofresh.jpg",
+      "reference": ""
+   }
+},
+ {
+   "model": "subscriptions_lib.subscription",
+   "pk": 5,
+   "fields": {
+      "name": "Five Recipe Box meals for 2 people",
+      "company": 0,
+      "category": 6,
+      "description": "Make your life easier with the HelloFresh Food Box. Easy recipes and delicious ingredients sent to your door weekly, thanks to our fresh food delivery service.",
+      "price": 52,
+      "img": "subscription_thumbnails/hellofresh.jpg",
+      "reference": ""
+   }
+},
+ {
+   "model": "subscriptions_lib.subscription",
+   "pk": 6,
+   "fields": {
+      "name": "3 month coffee bag subscription",
+      "company": 2,
+      "category": 2,
+      "description": "Look no further for the perfect! eightpointnine can solve all your present worries with a coffee gift for a friend or family member.",
+      "price": 25,
+      "img": "subscription_thumbnails/eightpointnine.jpg",
+      "reference": ""
+   }
+},
+ {
+   "model": "subscriptions_lib.subscription",
+   "pk": 7,
+   "fields": {
       "name": "6 month coffee bag subscription",
       "company": 2,
+      "category": 2,
       "description": "Look no further for the perfect! eightpointnine can solve all your present worries with a coffee gift for a friend or family member.",
       "price": 48,
-      "url": "subscription_thumbnails/eightpointnine.jpg",
+      "img": "subscription_thumbnails/eightpointnine.jpg",
+      "reference": ""
+   }
+},
+ {
+   "model": "subscriptions_lib.subscription",
+   "pk": 8,
+   "fields": {
+      "name": "12 month coffee bag subscription",
+      "company": 2,
+      "category": 2,
+      "description": "Look no further for the perfect! eightpointnine can solve all your present worries with a coffee gift for a friend or family member.",
+      "price": 92,
+      "img": "subscription_thumbnails/eightpointnine.jpg",
       "reference": ""
    }
 }

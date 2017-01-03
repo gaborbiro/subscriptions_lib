@@ -3,98 +3,112 @@
    "model": "subscriptions_lib.Category",
    "pk": 0,
    "fields": {
-      "name": "Alcohol"
+      "name": "Alcohol",
+      "favicon": "beer"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 1,
    "fields": {
-      "name": "Beauty"
+      "name": "Beauty",
+      "favicon": "eye"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 2,
    "fields": {
-      "name": "Beverages"
+      "name": "Beverages",
+      "favicon": "coffee"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 3,
    "fields": {
-      "name": "Children"
+      "name": "Children",
+      "favicon": "child"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 4,
    "fields": {
-      "name": "Creative"
+      "name": "Creative",
+      "favicon": "paint-brush"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 5,
    "fields": {
-      "name": "Fashion"
+      "name": "Fashion",
+      "favicon": "black-tie"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 6,
    "fields": {
-      "name": "Food"
+      "name": "Food",
+      "favicon": "cutlery"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 7,
    "fields": {
-      "name": "Geek"
+      "name": "Geek",
+      "favicon": "gamepad"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 8,
    "fields": {
-      "name": "Jewellery"
+      "name": "Jewellery",
+      "favicon": "diamond"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 9,
    "fields": {
-      "name": "Lifestyle"
+      "name": "Lifestyle",
+      "favicon": "home"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 10,
    "fields": {
-      "name": "Men"
+      "name": "Men",
+      "favicon": "mars"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 11,
    "fields": {
-      "name": "Pets"
+      "name": "Pets",
+      "favicon": "paw"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 12,
    "fields": {
-      "name": "Sport"
+      "name": "Sport",
+      "favicon": "futbol-o"
    }
 },
  {
    "model": "subscriptions_lib.Category",
    "pk": 13,
    "fields": {
-      "name": "Vegan"
+      "name": "Vegan",
+      "favicon": "leaf"
    }
 }
 ]

@@ -4,6 +4,7 @@ from django.db import models
 
 class Category(models.Model):
     name = models.CharField(max_length=50)
+    favicon = models.CharField(max_length=20)       # Font Awesome favicon
 
     def __str__(self):
         return self.name or self.reference
@@ -20,6 +21,7 @@ class Company(models.Model):
 class Subscription(models.Model):
     name = models.CharField(max_length=200, null=True, blank=True)
     company = models.ForeignKey(Company)
+    category = models.ForeignKey(Category)
     description = models.TextField(null=True, blank=True)
     price = models.FloatField(null=True, blank=True)
     url = models.CharField(max_length=200, null=True, blank=True)
@@ -28,3 +30,9 @@ class Subscription(models.Model):
 
     def __str__(self):
         return self.name or self.reference
+
+    def save(self, *args, **kwargs):
+
+        self.category = self.company.category
+
+        super(Subscription, self).save(*args, **kwargs)
