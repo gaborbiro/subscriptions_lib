@@ -315,7 +315,7 @@
    "model": "subscriptions_lib.subscription",
    "pk": 24,
    "fields": {
-      "name": "My VitiBox 3 month Colours & Flavours subscription - 2 bottles per month",
+      "name": "3 month Colours & Flavours subscription - 2 bottles per month",
       "company": 9,
       "category": 0,
       "description": "Know someone who loves wine? My Vitibox will get them from beginner to connoisseur in no time. Each month, they will receive two bottles of wine carefully selected by Alain Gousse, the former Head Sommelier of Michelin starred restaurants la Tour d’Argent, le Crillon, le Pavillon de la Rotonde and le Hameau Albert 1er. Accompanying the wine is a fun but educational booklet that walks them through how to taste each of the wines in the box, along with definitions of wine jargon to look out for and some recipe ideas to follow the key food and wine pairing rules. They can even receive small bottles of wine aromas to train their nose!",
@@ -328,7 +328,7 @@
    "model": "subscriptions_lib.subscription",
    "pk": 25,
    "fields": {
-      "name": "My VitiBox 6 month Colours & Flavours subscription - 2 bottles per month",
+      "name": "6 month Colours & Flavours subscription - 2 bottles per month",
       "company": 9,
       "category": 0,
       "description": "Know someone who loves wine? My Vitibox will get them from beginner to connoisseur in no time. Each month, they will receive two bottles of wine carefully selected by Alain Gousse, the former Head Sommelier of Michelin starred restaurants la Tour d’Argent, le Crillon, le Pavillon de la Rotonde and le Hameau Albert 1er. Accompanying the wine is a fun but educational booklet that walks them through how to taste each of the wines in the box, along with definitions of wine jargon to look out for and some recipe ideas to follow the key food and wine pairing rules. They can even receive small bottles of wine aromas to train their nose!",
@@ -341,7 +341,7 @@
    "model": "subscriptions_lib.subscription",
    "pk": 26,
    "fields": {
-      "name": "My VitiBox 3 month Red Passion subscription - 1 bottle per month",
+      "name": "3 month Red Passion subscription - 1 bottle per month",
       "company": 9,
       "category": 0,
       "description": "Know someone who loves wine? My Vitibox will get them from beginner to connoisseur in no time. Each month, they will receive two bottles of wine carefully selected by Alain Gousse, the former Head Sommelier of Michelin starred restaurants la Tour d’Argent, le Crillon, le Pavillon de la Rotonde and le Hameau Albert 1er. Accompanying the wine is a fun but educational booklet that walks them through how to taste each of the wines in the box, along with definitions of wine jargon to look out for and some recipe ideas to follow the key food and wine pairing rules. They can even receive small bottles of wine aromas to train their nose!",
@@ -354,7 +354,7 @@
    "model": "subscriptions_lib.subscription",
    "pk": 27,
    "fields": {
-      "name": "My VitiBox 6 month Red Passion subscription - 1 bottle per month",
+      "name": "6 month Red Passion subscription - 1 bottle per month",
       "company": 9,
       "category": 0,
       "description": "Know someone who loves wine? My Vitibox will get them from beginner to connoisseur in no time. Each month, they will receive two bottles of wine carefully selected by Alain Gousse, the former Head Sommelier of Michelin starred restaurants la Tour d’Argent, le Crillon, le Pavillon de la Rotonde and le Hameau Albert 1er. Accompanying the wine is a fun but educational booklet that walks them through how to taste each of the wines in the box, along with definitions of wine jargon to look out for and some recipe ideas to follow the key food and wine pairing rules. They can even receive small bottles of wine aromas to train their nose!",
@@ -367,7 +367,7 @@
    "model": "subscriptions_lib.subscription",
    "pk": 28,
    "fields": {
-      "name": "My VitiBox 3 month Red Passion subscription - 2 bottles per month",
+      "name": "3 month Red Passion subscription - 2 bottles per month",
       "company": 9,
       "category": 0,
       "description": "Know someone who loves wine? My Vitibox will get them from beginner to connoisseur in no time. Each month, they will receive two bottles of wine carefully selected by Alain Gousse, the former Head Sommelier of Michelin starred restaurants la Tour d’Argent, le Crillon, le Pavillon de la Rotonde and le Hameau Albert 1er. Accompanying the wine is a fun but educational booklet that walks them through how to taste each of the wines in the box, along with definitions of wine jargon to look out for and some recipe ideas to follow the key food and wine pairing rules. They can even receive small bottles of wine aromas to train their nose!",
@@ -380,7 +380,7 @@
    "model": "subscriptions_lib.subscription",
    "pk": 29,
    "fields": {
-      "name": "My VitiBox 6 month Red Passion subscription - 2 bottles per month",
+      "name": "6 month Red Passion subscription - 2 bottles per month",
       "company": 9,
       "category": 0,
       "description": "Know someone who loves wine? My Vitibox will get them from beginner to connoisseur in no time. Each month, they will receive two bottles of wine carefully selected by Alain Gousse, the former Head Sommelier of Michelin starred restaurants la Tour d’Argent, le Crillon, le Pavillon de la Rotonde and le Hameau Albert 1er. Accompanying the wine is a fun but educational booklet that walks them through how to taste each of the wines in the box, along with definitions of wine jargon to look out for and some recipe ideas to follow the key food and wine pairing rules. They can even receive small bottles of wine aromas to train their nose!",
